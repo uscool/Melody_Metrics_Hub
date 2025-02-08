@@ -3,10 +3,10 @@ This project creates a dashboard within Excel for data based for songs from http
 
 ## Data Insights Chosen
 
-1. The longest songs
-2. The song release numbers every year
-3. Explicit ratings
-4. Popular genres
+1. Top Most Popular Songs
+2. Popular Genres
+3. Number of Song Releases per Year
+4. Explicit Ratings
 
 The use of slicers reveals the real use case of the insights-- to analyse artists, as well as yearly changes to tastes of people, such as length of popular songs over time (showing socially acceptable and tolerance of audiences towards the music).
 
